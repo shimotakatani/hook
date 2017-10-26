@@ -1,4 +1,4 @@
-package main.java.web.controller;
+package web.controller;
 
 /**
  * create time 26.10.2017

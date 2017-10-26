@@ -1,4 +1,4 @@
-package main.java.web.configuration;
+package web.configuration;
 
 /**
  * create time 26.10.2017

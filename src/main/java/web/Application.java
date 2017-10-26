@@ -1,4 +1,4 @@
-package main.java.web;
+package web;
 
 /**
  * create time 26.10.2017
